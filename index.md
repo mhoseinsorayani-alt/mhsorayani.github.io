@@ -23,10 +23,11 @@ I work on the relationship between the brain, behavior, and cognition, and I stu
 ---
 
 ## Research Interests
-- Social Cognitive and Affective Neuroscience 
-- Brain Stimulation
 - Applied Neuroscience
 - Artificial Intelligence
+- Brain Stimulation
+- Social Cognitive and Affective Neuroscience 
+
    
 
   
