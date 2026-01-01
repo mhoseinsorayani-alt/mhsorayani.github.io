@@ -3,8 +3,8 @@ title: Cognitive Neuroscience Researcher
 
 ---
 
-# Your Name
-Dr. Mohammad Hossein Sorayani
+# Dr. Mohammad Hossein Sorayani
+
 
 **Professional Title**  
 Cognitive Neuroscience Researcher
