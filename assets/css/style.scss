@@ -1,0 +1,29 @@
+---
+---
+
+body {
+  background: linear-gradient(
+    180deg,
+    #f9fafb 0%,
+    #ffffff 60%
+  );
+}
+
+.page-content {
+  background: white;
+  padding: 2.5rem;
+  border-radius: 14px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.06);
+}
+
+h1 {
+  letter-spacing: 0.5px;
+}
+
+a {
+  color: #2563eb;
+}
+
+a:hover {
+  text-decoration: underline;
+}
