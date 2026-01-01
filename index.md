@@ -1,36 +1,35 @@
 ---
-title: Your Name
+title: Dr. Mohammad Hossein Sorayani
 ---
 
 # Your Name
 
 **Professional Title**  
-EEG | ERP | Cognitive Neuroscience
+Cognitive Neuroscience Researcher
 
 ---
 
 ## About
-Write 3–4 lines about yourself here.
-Focus on what you do and your expertise.
+PhD in Cognitive Neurosciene 
+
+Member of the American Psychological Association
+
+I work on the relationship between the brain, behavior, and cognition, and I study the brain and mind using EEG, neurocognitive assessments, and other cognitive neuroscience methods. 
+
+
 
 ---
 
 ## Research Interests
-- Social Cognitive Neuroscience 
+- Social Cognitive and Affective Neuroscience 
 - Brain Stimulation
 - Applied Neuroscience
-- AI and Neuroscience 
-  
+- Artificial Intelligence
+   
+
   
   
 
----
-
-## Publications
-- Author, A. (Year). Title of paper. *Journal Name*
-
----
 
 ## Contact
-📧 your.email@domain.com  
-🌐 https://username.github.io
+📧 m.hoseinsorayani@gmail.com
